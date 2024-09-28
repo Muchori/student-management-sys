@@ -1,5 +1,5 @@
 import unittest
-from src.database.secure_database import Database
+from src.database.database import Database
 import os
 
 class TestDatabase(unittest.TestCase):
