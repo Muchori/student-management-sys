@@ -24,7 +24,7 @@ This is a secure student management system implemented in Python. It features a 
 2. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/student-management-system-1731.git
+    git clone https://github.com/yourusername/student-management-sys.git
    cd student-management-system-1731
    ```
 
