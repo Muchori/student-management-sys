@@ -1,5 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
+from src.database.database import Database
+from src.utils.calculator import Calculator
 
 class GUI:
     def __init__(self, master, db):

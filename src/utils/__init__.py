@@ -1,1 +1,1 @@
-from src.utils import SecureCalculator
+from .calculator import Calculator

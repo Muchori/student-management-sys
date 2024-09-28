@@ -1,1 +1,1 @@
-from src.database import Database
+from .database import Database
