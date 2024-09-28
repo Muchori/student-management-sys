@@ -58,8 +58,8 @@ This is a secure student management system implemented in Python. It features a 
 2. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/student-management-system-1731.git
-   cd student-management-system-1731
+   git clone https://github.com/yourusername/student-management-sys.git
+   cd student-management-sys
    ```
 
 3. (Optional) Create a virtual environment:
